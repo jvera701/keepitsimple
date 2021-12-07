@@ -1,25 +1,9 @@
-import logo from './logo.svg'
 import './App.css'
 import data from './data.json'
 import Table from './table'
 import React, { useMemo } from 'react'
 
 function App() {
-  function sort(rowA, rowB, id, desc) {
-    if (rowA.Supervisor[id] > rowB.Supervisor[id]) {
-      return -1
-    } else if (rowB.Supervisor[id] > rowA.Supervisor[id]) {
-      return 1
-    } else {
-      if (rowA.Nombre[id] > rowB.Nombre[id]) {
-        return -1
-      } else if (rowB.Nombre[id] > rowA.Nombre[id]) {
-        return 1
-      }
-      return 0
-    }
-  }
-
   // This is a custom filter UI for selecting
   // a unique option from a list
   function SelectColumnFilter({
@@ -60,25 +44,25 @@ function App() {
         Header: 'Supervisor',
         accessor: 'Supervisor',
         Filter: SelectColumnFilter,
-        filter: 'includes',
+        filter: 'equals',
       },
       {
         Header: 'Clase',
         accessor: 'Clase',
         Filter: SelectColumnFilter,
-        filter: 'includes',
+        filter: 'equals',
       },
       {
         Header: 'Subsidiaria',
         accessor: 'Subsidiaria',
         Filter: SelectColumnFilter,
-        filter: 'includes',
+        filter: 'equals',
       },
       {
         Header: 'Departamento',
         accessor: 'Departamento',
         Filter: SelectColumnFilter,
-        filter: 'includes',
+        filter: 'equals ',
       },
     ],
     []
