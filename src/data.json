@@ -1,0 +1,684 @@
+{
+  "Employees": [
+    {
+      "Nombre": "Tom Sinor",
+      "Cargo": "Accountant",
+      "Supervisor": "Claudia Schiffer",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Billy Lee",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration : Support",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Operations"
+    },
+    {
+      "Nombre": "Brian Sullivan",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Ebony Williams",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "07-Administration : Support",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Operations"
+    },
+    {
+      "Nombre": "Gino Falco",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Harry  Jones",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "07-Administration : Support",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Engineering"
+    },
+    {
+      "Nombre": "Hayley Smith",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "07-Administration : Support",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Engineering"
+    },
+    {
+      "Nombre": "Jerry Hunt",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Karl Patel",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering"
+    },
+    {
+      "Nombre": "Lauren Mitchell",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Roberto Como",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Tom Burst",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Tyler Wyndborn",
+      "Cargo": "Business Analyst",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Emma Powell",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "George Fisher",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Jamie Lilley",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Jason Day",
+      "Cargo": "Consultant",
+      "Supervisor": "None",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Kelly Lane",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Lucy Baker",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Luisa Alegria",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Mary Hart",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Meryl Silverburgh",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Naomi Hunter",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Nicole Rowan",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Sales"
+    },
+    {
+      "Nombre": "Robin Miles",
+      "Cargo": "Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Sales"
+    },
+    {
+      "Nombre": "Stephen Hobbs",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Todd Tyler",
+      "Cargo": "Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Larry Nelson",
+      "Cargo": "Controller",
+      "Supervisor": "None",
+      "Clase": "07-Administration : Operations",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Operations"
+    },
+    {
+      "Nombre": "Thomas Watson",
+      "Cargo": "Controller - UK",
+      "Supervisor": "None",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Operations"
+    },
+    {
+      "Nombre": "David  Misa",
+      "Cargo": "Dir Human Resources",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Henry Sawyer",
+      "Cargo": "Dir Human Resources",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Taylor White",
+      "Cargo": "Dir Human Resources",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "cristina robalino",
+      "Cargo": "Finanzas",
+      "Supervisor": "Makayla McEacharn",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Kelly Shaun",
+      "Cargo": "IT Support Specialist",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Sara Daly",
+      "Cargo": "IT Support Specialist",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Administration"
+    },
+    {
+      "Nombre": "Pratik Wing",
+      "Cargo": "Jr. Technical Consultant",
+      "Supervisor": "Sean Hogstrom",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering"
+    },
+    {
+      "Nombre": "Ich b Wunderbar",
+      "Cargo": "Notemployed",
+      "Supervisor": "None",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : Peru",
+      "Departamento": "FINANZAS"
+    },
+    {
+      "Nombre": "Melissa Seaver",
+      "Cargo": "Product Manager",
+      "Supervisor": "Dean Nolan",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering : Product Management"
+    },
+    {
+      "Nombre": "Scott Win",
+      "Cargo": "Product Manager",
+      "Supervisor": "Dean Nolan",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : ASPAEN DIRECCION NACIONAL",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Carolina Martinez",
+      "Cargo": "Professional Services Director",
+      "Supervisor": "Australia",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Darren Turner",
+      "Cargo": "Programmer",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "David Camereri",
+      "Cargo": "Project Manager",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Keith Goh",
+      "Cargo": "Project Manager",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ASIA : Singapore",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Trisha Brooks",
+      "Cargo": "Project Manager",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Olivia King",
+      "Cargo": "Project Manager - UK",
+      "Supervisor": "Tala Jaffari",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Caroline Shaw",
+      "Cargo": "QA Engineer I",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Eric Acres",
+      "Cargo": "QA Engineer I",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Nina Ricci",
+      "Cargo": "QA Engineer I",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Bobby Brown",
+      "Cargo": "QA Engineer II",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Brayden Wilson",
+      "Cargo": "QA Engineer II",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Sean Hogstrom",
+      "Cargo": "QA Manager",
+      "Supervisor": "Larry Nelson",
+      "Clase": "03-Custom Development",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering : Quality Assurance"
+    },
+    {
+      "Nombre": "Imane Murphy",
+      "Cargo": "Sales Engineer",
+      "Supervisor": "Mini Saunders",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Sales"
+    },
+    {
+      "Nombre": "Leone Clark",
+      "Cargo": "Senior Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "07-Administration : Operations",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Kate Landon",
+      "Cargo": "Software Developer",
+      "Supervisor": "Dean Nolan",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Kevin Abernathy",
+      "Cargo": "Software Developer",
+      "Supervisor": "Dean Nolan",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Jazz Geron",
+      "Cargo": "Sr. Business Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Marvyn Stephenson",
+      "Cargo": "Sr. Consultant",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Marwin Stevenson",
+      "Cargo": "Sr. Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Todd Tylor",
+      "Cargo": "Sr. Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Abraham Miles",
+      "Cargo": "Sr. Developer",
+      "Supervisor": "Olivia King",
+      "Clase": "03-Custom Development",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Frank Murphey",
+      "Cargo": "Sr. Developer",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "03-Custom Development",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Henry West",
+      "Cargo": "Sr. Developer",
+      "Supervisor": "Olivia King",
+      "Clase": "03-Custom Development",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Joan Mencino",
+      "Cargo": "Sr. Developer",
+      "Supervisor": "Dean Nolan",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering : Development"
+    },
+    {
+      "Nombre": "Paul Stehlin",
+      "Cargo": "Supervisor",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Kiro Franco",
+      "Cargo": "Support Analyst",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Barry B Bludgen",
+      "Cargo": "Support Rep",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Brian Smith",
+      "Cargo": "Support Rep",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Christine Carter",
+      "Cargo": "Support Rep",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Katie Pearson",
+      "Cargo": "Support Rep",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Keith Williams",
+      "Cargo": "Support Rep",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Sean Thomas",
+      "Cargo": "Support Rep",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Susan Robinson",
+      "Cargo": "Support Rep",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Eric Evans",
+      "Cargo": "Technical Consultant",
+      "Supervisor": "Olivia King",
+      "Clase": "04-System Integration",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Melissa Cruz",
+      "Cargo": "Technical Consultant",
+      "Supervisor": "Sean Hogstrom",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Engineering"
+    },
+    {
+      "Nombre": "Germaine Eberstark",
+      "Cargo": "Trainer",
+      "Supervisor": "Larry Nelson",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : Germany",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "John Morris",
+      "Cargo": "Trainer",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Lily Young",
+      "Cargo": "Trainer",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Margie Holmes",
+      "Cargo": "Trainer",
+      "Supervisor": "Olivia King",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Nick Heidfeld",
+      "Cargo": "Trainer",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Peter Collins",
+      "Cargo": "Trainer",
+      "Supervisor": "Larry Nelson",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS",
+      "Departamento": "None"
+    },
+    {
+      "Nombre": "Phillip  Jagger",
+      "Cargo": "Trainer",
+      "Supervisor": "United Kingdom",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : EMEA : United Kingdom",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Scott Thoroughgood",
+      "Cargo": "Trainer",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Scott Torman",
+      "Cargo": "Trainer",
+      "Supervisor": "Ed Sullivan",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Susan Benton",
+      "Cargo": "Trainer",
+      "Supervisor": "Carolina Martinez",
+      "Clase": "01-Consulting",
+      "Subsidiaria": "HEADQUARTERS : ANZ : Australia",
+      "Departamento": "Prof. Services"
+    },
+    {
+      "Nombre": "Dean Nolan",
+      "Cargo": "VP of Development",
+      "Supervisor": "Americas",
+      "Clase": "None",
+      "Subsidiaria": "HEADQUARTERS : CONSOLIDACION COLEGIOS : CORPADE",
+      "Departamento": "None"
+    }
+  ]
+}

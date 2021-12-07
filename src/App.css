@@ -1,0 +1,27 @@
+.app {
+  padding: 5px;
+}
+
+.table-main {
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+.table-th {
+  border-right: 1px solid black;
+}
+
+.table-th:last-child {
+  border-right: 0;
+}
+
+.table-td {
+  padding: 3px;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  text-align: center;
+}
+
+.table-td:last-child {
+  border-right: 0;
+}
