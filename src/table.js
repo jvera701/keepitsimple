@@ -1,22 +1,19 @@
 import React, { useMemo, useState } from 'react'
 import { useFilters, useTable } from 'react-table'
+import { CSVLink } from 'react-csv'
 
 function Table({ columns, data }) {
-  const [format, setFormat] = useState('excel')
   function ColumnFilter() {
     return <> </>
   }
   const defaultColumn = useMemo(
     () => ({
-      // Let's set up our default Filter UI
+      // Empty default filter
       Filter: ColumnFilter,
     }),
     []
   )
 
-  function handleChange(event) {
-    setFormat(event.target.value)
-  }
   // Use the state and functions returned from useTable to build your UI
   // taken from https://github.com/tannerlinsley/react-table/blob/master/examples/basic/src/App.js
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
@@ -41,6 +38,11 @@ function Table({ columns, data }) {
       }
       return 0
     }
+  })
+
+  const newRows = []
+  rows.map(cell => {
+    newRows.push(cell.values)
   })
 
   return (
@@ -77,13 +79,8 @@ function Table({ columns, data }) {
         </tbody>
       </table>
       <div>
-        <select value={format} onChange={handleChange}>
-          <option value='excel'>Excel</option>
-          <option value='csv'> CSV</option>
-          <option value='pdf'> PDF</option>
-        </select>
+        <CSVLink data={newRows}> Download CSV </CSVLink>
       </div>
-      <button> Save </button>
     </>
   )
 }
