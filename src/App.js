@@ -4,6 +4,7 @@ import Table from './table'
 import React, { useMemo } from 'react'
 
 function App() {
+  console.log("DDD")
   // This is a custom filter UI for selecting
   // a unique option from a list
   function SelectColumnFilter({
